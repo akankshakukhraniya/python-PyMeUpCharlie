@@ -4,7 +4,7 @@ import csv
 #create paths
 
 filepath = os.path.join('..', "Resources", "election_data.csv")
-output_path = os.path.join("output.txt")
+output_path = os.path.join('..',"analysis","output.txt")
 
 #to read election data first open csvfile.
 

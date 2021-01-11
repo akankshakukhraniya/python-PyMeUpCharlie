@@ -5,7 +5,7 @@ import csv
 
 #create file folder path to be used for reading file
 filepath = os.path.join('..', "Resources", "budget_data.csv")
-bank_output_path = os.path.join("output.txt")
+bank_output_path = os.path.join('..',"analysis","output.txt")
 
 #to read data into directory
 #with is used to manage file close on its own
