@@ -74,7 +74,9 @@ greatest decrese in losses : Sep-13 ($-2196167.0)
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
-* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). 
+* The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
+* Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
@@ -124,3 +126,8 @@ O'Tooley: 3.01%  (31586)
 * Always commit your work and back it up with GitHub/GitLab pushes. You don't want to lose hours of your work because you didn't push it to GitHub/GitLab every half hour or so.
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
+## Results and Solution
+
+* Solution file can be found under Resources folder 
+* Results can be found under analysis folder
