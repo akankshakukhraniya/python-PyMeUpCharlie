@@ -47,13 +47,23 @@ Both of these challenges encompass a real-world situation where your newfound Py
 * As an example, your analysis should look similar to the one below:
 
   ```text
-  Financial Analysis
-  ----------------------------
-  Total Months: 86
-  Total: $38382578
-  Average  Change: $-2315.12
-  Greatest Increase in Profits: Feb-2012 ($1926159)
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
+==================================================
+
+ Financial Analysis 
+
+==================================================
+
+Total months : 86
+
+Total amount : $38382578.0
+
+Avgrage change : $-2315.12
+
+greatest increase in profit : Feb-12 ($1926159.0)
+
+greatest decrese in losses : Sep-13 ($-2196167.0)
+
+==================================================
   ```
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
